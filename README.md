@@ -19,8 +19,8 @@ UPDATE fact_survey_responses
 SET Taste_Experience = 0
 WHERE Tried_before ="No"; 
 
-###Provide Insights to the Marketing Team in Food & Beverage Industry
-###Primary Insights (Sample Sections / Questions)
+# QUESTIONS
+## Primary Insights (Sample Sections / Questions)
 Note: These insights can be derived from the survey responses
 1. Demographic Insights (examples)
 a. Who prefers energy drink more? (male/female/non-binary?)
@@ -45,9 +45,9 @@ c. What factors influence respondents' purchase decisions, such as price range a
 7. Product Development
 a. Which area of business should we focus more on our product development? (Branding/taste/availability)
 codebasics.io
-###Secondary Insights (Sample Sections / Questions)
+ ## Secondary Insights (Sample Sections / Questions)
 Note: You need to do additional market research
-###Recommendations for CodeX: Give 5 recommendations for CodeX (below are some samples)
+### Recommendations for CodeX: Give 5 recommendations for CodeX (below are some samples)
 ● What immediate improvements can we bring to the product?
 ● What should be the ideal price of our product?
 ● What kind of marketing campaigns, offers, and discounts we can run?
